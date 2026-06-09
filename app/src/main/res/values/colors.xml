@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_brown">#8B4513</color>
+    <color name="primary_light_brown">#A0522D</color>
+    <color name="primary_dark_brown">#654321</color>
+
+    <color name="cream_background">#FFF8F0</color>
+    <color name="cream_surface">#FFFDF8</color>
+    <color name="warm_white">#FFFAF5</color>
+
+    <color name="brown_text">#5D4037</color>
+    <color name="light_brown_text">#795548</color>
+
+    <color name="accent_chocolate">#D2691E</color>
+    <color name="soft_shadow">#1A000000</color>
+
+    <color name="white">#FFFFFF</color>
+
+</resources>

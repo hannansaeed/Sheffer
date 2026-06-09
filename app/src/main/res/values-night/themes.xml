@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.SharedSpaceXML" parent="Theme.Material3.DayNight">
+        <item name="colorPrimary">@color/primary_brown</item>
+        <item name="colorPrimaryVariant">@color/primary_dark_brown</item>
+        <item name="colorOnPrimary">@color/white</item>
+
+        <item name="android:windowBackground">@color/cream_background</item>
+        <!-- <item name="android:colorBackground">@color/cream_background</item> REMOVED -->
+    </style>
+
+    <style name="Theme.SharedSpaceXML" parent="Base.Theme.SharedSpaceXML" />
+</resources>
